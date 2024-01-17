@@ -1,5 +1,15 @@
-.but{
-    font-size: 28px; 
+.butt1,
+.butt2 {
+    font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
+.butt1 {
+    background: black;
+    color: white;
+}
+
+.butt2 {
+    background: yellow;
+
+}
