@@ -1,0 +1,15 @@
+.odd {
+    background: #ffb6c1;
+    font-family:  Verdana, "DejaVu Sans", sans-serif;
+}
+
+#t2{
+    color: #0027ff;
+    font-size: 36px;
+}
+
+#t4{
+    background-color: #68f886;
+    font-weight: bold;
+    font-size: 24px;
+}
